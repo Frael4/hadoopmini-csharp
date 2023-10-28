@@ -1,3 +1,6 @@
-.vs/
-Executer/bin/
-g2hadoopmini
+# Ignora los archivos y directorios generados por Visual Studio
+bin/
+obj/
+
+# Ignora archivos de registro
+*.log
