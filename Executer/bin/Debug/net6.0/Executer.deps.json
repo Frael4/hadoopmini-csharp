@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Executer/1.0.0": {
+        "dependencies": {
+          "g2hadoopmini": "1.0.0"
+        },
+        "runtime": {
+          "Executer.dll": {}
+        }
+      },
+      "g2hadoopmini/1.0.0": {
+        "runtime": {
+          "g2hadoopmini.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Executer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "g2hadoopmini/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

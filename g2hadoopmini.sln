@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "g2hadoopmini", "g2hadoopmini\g2hadoopmini.csproj", "{D7483E2E-BD11-442D-99B6-A3882A2445C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Executer", "Executer\Executer.csproj", "{06DE75DA-1888-4D31-931D-9ACDF634957D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7483E2E-BD11-442D-99B6-A3882A2445C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7483E2E-BD11-442D-99B6-A3882A2445C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7483E2E-BD11-442D-99B6-A3882A2445C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7483E2E-BD11-442D-99B6-A3882A2445C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DE75DA-1888-4D31-931D-9ACDF634957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DE75DA-1888-4D31-931D-9ACDF634957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DE75DA-1888-4D31-931D-9ACDF634957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DE75DA-1888-4D31-931D-9ACDF634957D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70572B45-A393-4115-8CAE-6004A9292C91}
+	EndGlobalSection
+EndGlobal

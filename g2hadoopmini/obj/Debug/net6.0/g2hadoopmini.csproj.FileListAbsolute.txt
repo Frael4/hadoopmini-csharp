@@ -1,0 +1,12 @@
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\bin\Debug\net6.0\g2hadoopmini.deps.json
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\bin\Debug\net6.0\g2hadoopmini.dll
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\bin\Debug\net6.0\g2hadoopmini.pdb
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.csproj.AssemblyReference.cache
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.AssemblyInfoInputs.cache
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.AssemblyInfo.cs
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.csproj.CoreCompileInputs.cache
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.dll
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\refint\g2hadoopmini.dll
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\g2hadoopmini.pdb
+C:\Users\Frael\Documents\Visual Studio 2022\ProjectsVS2022C\g2hadoopmini\g2hadoopmini\obj\Debug\net6.0\ref\g2hadoopmini.dll
